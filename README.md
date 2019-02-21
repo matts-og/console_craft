@@ -1,7 +1,9 @@
 # Installation
 
 Install Minecraft
+
 Install SpigotMC server
+
 Install ScriptCraft plugin to Spigot
 
 Git clone auto-test (to use the python session class).
