@@ -15,6 +15,7 @@ Copy console-craft.js to scriptcrtaft/plugins directory (note you have to run th
 
 Point crosshairs a block and type '/jsp get-consoles'. This should produce a staircase with the console server names.
 
-Point crosshairs at the block under the sign that has the console name on it and type '/jsp load-console'. This should cause a platform to extend out to the right with the serial ports status.
+Break the block under the sign that has the console name on it. This should cause a platform to extend out to the right with the serial ports status.
 
+Break the block under the sign that has the port label and the configuration should toggle between disabled and consoleServer.
 
